@@ -1,11 +1,10 @@
 name: restaurant_booking_proj
-description: "A Flutter project for a restaurant booking system."
+description: "A new Flutter project."
 publish_to: 'none'
-
-version: 1.0.0+1
+version: 0.1.0
 
 environment:
-  sdk: ">=3.0.0 <4.0.0"
+  sdk: ^3.8.0
 
 dependencies:
     flutter:
@@ -22,26 +21,4 @@ flutter:
   uses-material-design: true
 
   assets:
-    - lib/assets/images/avocado_toast.jpg
-    - lib/assets/images/classic_pancakes.jpg
-    - lib/assets/images/egg_bacon_sandwich.jpeg
-    - lib/assets/images/oatmeal_fruit.jpg
-    - lib/assets/images/grilled_chicken_caesar.jpg
-    - lib/assets/images/vegetarian_wrap.jpg
-    - lib/assets/images/tomato_basil_soup.jpeg
-    - lib/assets/images/club_sandwich.jpg
-    - lib/assets/images/cafe_latte.jpeg
-    - lib/assets/images/iced_caramel_macchiato.jpeg
-    - lib/assets/images/matcha_latte.jpg
-    - lib/assets/images/orange_juice.jpeg
-    - lib/assets/images/chocolate_lava_cake.jpeg
-    - lib/assets/images/lemon_cheesecake.jpg
-    - lib/assets/images/cinnamon_rolls.jpg
-    - lib/assets/images/assorted_pastries.jpeg
-    - lib/assets/images/hot_chocolate.jpg
-    - lib/assets/images/iced_tea.jpeg
-    - lib/assets/images/sparkling_water.jpeg
-    - lib/assets/images/espresso.jpg
-    - lib/assets/images/mini_pancakes.png
-    - lib/assets/images/grilled_cheese.jpeg
-    - lib/assets/images/fruit_yogurt_parfait.jpeg
+    - lib/assets/images/
